@@ -1,0 +1,27 @@
+﻿<appSettings>
+  <add key="startingGems" value="777500000" />
+  <add key="startingGold" value="100000000" />
+  <add key="startingElixir" value="500000000" />
+  <add key="startingDarkElixir" value="1000000" />
+  <add key="startingTrophies" value="5000" />
+  <add key="startingShieldTime" value="0" />
+
+  <add key="startingLevel" value="11" />
+  <add key="startingExperience" value="random" />
+  <add key="clientVersion" value="1.2.3" />
+  <add key="UpdateUrl" value="http://ultrapowa.com/" />
+  <add key="useCustomPatch" value="false" />
+  <add key="patchingServer" value="http://178.32.9.216/" />
+
+  <add key="maintenanceMode" value="false" />
+  <add key="maintenanceTimeleft" value="1200" />
+  <add key="databaseConnectionName" value="sqliteEntities" />
+
+  <add key="loggingLevel" value="5" />
+  <add key="proDebugPort" value="8888" />
+  <add key="ApiKey" value="UCSGL" />
+
+  <add key="ServerCapacityMode" value="true" />
+  <add key="ServerCapacity" value="100000" />
+  <add key="ServerFullMessage" value="The Server is in Alpha, Try Again please!" />
+</appSettings>
